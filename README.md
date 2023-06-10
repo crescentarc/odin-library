@@ -1,1 +1,9 @@
 # odin-library
+
+For this project, I will be practicing the use of one of the most essential parts of JavaScript: Objects and Object Constructors. 
+
+Prior to learning about those concepts, I did always wonder why you had access to all sorts of different features on JavaScript by default without creating functions. For example, you instantly have the ability to use .split for arrays without first needing to create a function to split a string into substrings. It turns out that that's due to the prototype for array containing methods such as .split. 
+
+I've seen examples demonstrating objects in the form say, animal constructors and specific animals that inherit the values of those constructors. For this library project, I'm going to make it so that the user can store new books into an array of books. The books that the user can add can comprise of different values such as pages read and whether or not the user has finished reading them.
+
+The project directions specifically mention creating a library for users to store info about books they read. But to go a step further, I'd like to try my hand at giving the user the ability also enter in TV shows, movies and video games. I've seen sites that give you the ability to keep a log for either movies, TV shows or video games that you've completed, but never for all. So, this project will not just be practice for the important concepts of objects in JavaScript, but also an opportunity for me to create something that I've personally been looking for in my daily life. I might not be able to allow for users to save their entries right now, but I'd like to re-visit this project later on to integrate that feature once I learn the appropriate skills. 
