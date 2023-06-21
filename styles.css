@@ -1,0 +1,12 @@
+.page-title {
+    text-align: center;
+}
+
+p {
+    text-align: center;
+}
+
+.entry-container {
+    display: flex;
+    justify-content: space-evenly;
+}
